@@ -3,7 +3,7 @@ this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin i
 
 1. [Cygwin (optional)](#cygwin-optional)
 1. [Oh-My-Zsh](#Oh-My-ZSH)
-1. [Config file](#Config file)
+1. [Config file](#Config-file)
 
 ### Cygwin (optional)
 1. Download Cygwin installation file: [https://cygwin.com/setup-x86_64.exe](https://cygwin.com/setup-x86_64.exe)

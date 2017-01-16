@@ -3,6 +3,15 @@ this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin i
 
 ### Cygwin (optional)
 1. Download Cygwin installation file: [https://cygwin.com/setup-x86_64.exe](https://cygwin.com/setup-x86_64.exe)
+2. Start installion of cygwin.
+3. Choose in window 'Choose a Download source' option 'Install from internet'.
+4. Keep root directory at 'C:\cygwin64'
+5. Ignore local package window.
+6. Choose 'Direct Connection' in internet connection window.
+7. Choose a Download site. fastest for me is: http://ftp.snt.utwente.nl
+8. In the Package window choose the following packages:
+    ![screen](https://raw.githubusercontent.com/Ivostomp/zsh-config/master/Cygwin-Packages.png)
+    a. 
 
 ### Oh-My-ZSH
 

@@ -1,7 +1,7 @@
 ## Installation
 this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin install is optional for windows systems
 
-1. [Cygwin (optional)](#cygwin-windows-only)
+1. [Cygwin (windows only)](#cygwin-windows-only)
 2. [Oh-My-Zsh](#oh-my-zsh)
 3. [Config file](#config-file)
     a. [Windows](#windows)

@@ -4,8 +4,8 @@ this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin i
 1. [Cygwin (windows only)](#cygwin-windows-only)
 2. [Oh-My-Zsh](#oh-my-zsh)
 3. [Config file](#config-file)
-    a. [Windows](#windows)
-    b. [Linux](#linux)
+    3.1. [Windows](#windows)
+    3.2. [Linux](#linux)
 
 ### Cygwin (windows only)
 1. Download Cygwin installation file: [https://cygwin.com/setup-x86_64.exe](https://cygwin.com/setup-x86_64.exe)

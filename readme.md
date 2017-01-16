@@ -11,7 +11,18 @@ this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin i
 7. Choose a Download site. fastest for me is: http://ftp.snt.utwente.nl
 8. In the Package window choose the following packages:
     ![screen](https://raw.githubusercontent.com/Ivostomp/zsh-config/master/Cygwin-Packages.png)
-    a. 
+    - zsh !IMPORTANT!
+    - ssh
+    - git
+    - curl
+    - wget
+    - unzip
+    - vim
+9. install the packages en enjoy!
+
+
+When in need of more packages just download and run the installer again. select the packages you want to install form de package window en just install!
+    
 
 ### Oh-My-ZSH
 

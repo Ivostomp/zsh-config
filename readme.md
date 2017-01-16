@@ -29,8 +29,10 @@ this guide wil help you install my config for ZSH shell with oh-my-zsh. cygwin i
 
 When in need of more packages just download and run the installer again. select the packages you want to install from de package window en just install!
     
+[https://www.youtube.com/watch?v=CrWB9zg4fLg](https://www.youtube.com/watch?v=CrWB9zg4fLg)
 
 ### Oh-My-ZSH
+[https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 1. 
 
 ### Config file
